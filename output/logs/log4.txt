@@ -1,0 +1,8125 @@
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 32.925   4.616  37.543 
+   user  system elapsed 
+ 38.223   1.996  40.222 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 63.083   1.576  64.661 
+   user  system elapsed 
+ 70.378   2.124  72.504 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 33.792   1.868  35.661 
+   user  system elapsed 
+ 33.276   0.853  34.128 
+[1] "transform prvl/dgn/mrtl to be summed"
+   user  system elapsed 
+ 34.127   0.248  34.419 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 49.884   4.196  54.083 
+   user  system elapsed 
+ 51.898   1.720  53.621 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 49.787   2.990  52.780 
+   user  system elapsed 
+ 52.050   3.143  55.196 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 29.060   7.556  36.618 
+   user  system elapsed 
+ 29.779   5.987  35.769 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 14.311   2.495  16.807 
+   user  system elapsed 
+ 15.301   0.229  15.531 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.759   2.507  15.268 
+   user  system elapsed 
+ 13.567   0.656  14.225 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 14.248   2.464  16.714 
+   user  system elapsed 
+ 15.433   0.431  15.865 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.962   2.460  15.423 
+   user  system elapsed 
+ 13.630   0.427  14.059 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 14.253   2.651  16.909 
+   user  system elapsed 
+ 15.036   0.664  15.701 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 26.844   7.504  34.349 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 26.519   7.899  34.423 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 22.148   2.125  24.312 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 21.538   2.176  23.715 
+   user  system elapsed 
+ 23.273   0.232  23.506 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 46.352   3.272  49.629 
+   user  system elapsed 
+ 49.091   2.723  51.822 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.646   2.264  14.911 
+   user  system elapsed 
+ 14.533   0.732  15.265 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.527   2.471  15.000 
+   user  system elapsed 
+ 14.336   0.421  14.757 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.308   2.276  14.585 
+   user  system elapsed 
+ 14.267   0.155  14.423 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.381   2.392  14.775 
+   user  system elapsed 
+ 14.241   0.456  14.700 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.995   2.143  15.139 
+   user  system elapsed 
+ 14.916   0.170  15.086 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 15.086   3.555  18.643 
+   user  system elapsed 
+ 16.252   0.536  16.789 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.778   3.360  17.140 
+   user  system elapsed 
+ 14.505   0.307  14.814 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 14.492   5.568  20.061 
+   user  system elapsed 
+ 15.792   0.599  16.393 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.817   2.487  16.306 
+   user  system elapsed 
+ 15.578   0.584  16.163 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.304   2.503  15.809 
+   user  system elapsed 
+ 15.255   0.428  15.684 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.293   2.431  15.725 
+   user  system elapsed 
+ 15.502   0.565  16.067 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.316   2.191  15.509 
+   user  system elapsed 
+ 15.241   0.436  15.678 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.711   2.968  16.679 
+   user  system elapsed 
+ 16.116   0.208  16.326 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.566   2.504  15.072 
+   user  system elapsed 
+ 14.567   0.692  15.261 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.531   2.316  14.848 
+   user  system elapsed 
+ 14.252   0.188  14.441 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.494   2.312  14.807 
+   user  system elapsed 
+ 14.446   0.544  14.991 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.562   2.139  14.703 
+   user  system elapsed 
+ 14.275   0.331  14.607 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.402   2.572  15.975 
+   user  system elapsed 
+ 13.021   0.436  13.457 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.282   2.211  14.494 
+   user  system elapsed 
+ 11.965   0.392  12.358 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 22.961   2.276  25.238 
+   user  system elapsed 
+ 24.057   0.220  24.278 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 22.203   2.284  24.489 
+   user  system elapsed 
+ 23.990   0.448  24.438 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 12.231   2.520  14.752 
+   user  system elapsed 
+ 14.136   0.452  14.589 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.332   2.651  15.986 
+   user  system elapsed 
+ 13.079   0.529  13.609 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.371   2.692  16.064 
+   user  system elapsed 
+ 15.396   0.872  16.268 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.324   2.627  15.952 
+   user  system elapsed 
+ 15.122   0.584  15.708 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.320   2.680  16.002 
+   user  system elapsed 
+ 15.272   0.860  16.133 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.167   2.168  15.336 
+   user  system elapsed 
+ 14.825   0.208  15.034 
+   user  system elapsed 
+ 15.122   0.196  15.319 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 13.920   2.576  16.498 
+   user  system elapsed 
+ 15.886   0.612  16.498 
+   user  system elapsed 
+ 16.229   0.432  16.663 
+   user  system elapsed 
+ 16.764   0.240  17.004 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 14.347   2.923  17.273 
+   user  system elapsed 
+ 14.178   0.192  14.372 
+   user  system elapsed 
+ 15.979   0.860  16.841 
+   user  system elapsed 
+ 15.468   0.084  15.553 
+   user  system elapsed 
+ 15.586   0.816  16.404 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 15.433   3.043  18.477 
+   user  system elapsed 
+ 15.105   0.567  15.672 
+   user  system elapsed 
+ 18.049   0.419  18.469 
+   user  system elapsed 
+ 17.147   0.144  17.291 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 14.431   2.760  17.192 
+   user  system elapsed 
+ 17.291   0.751  18.043 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 14.843   4.056  18.901 
+   user  system elapsed 
+ 15.579   0.884  16.464 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 17.577   2.871  20.450 
+   user  system elapsed 
+ 20.239   1.133  21.373 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 17.001   3.267  20.270 
+   user  system elapsed 
+ 19.535   1.235  20.772 
+   user  system elapsed 
+ 17.418   0.723  18.143 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 16.004   3.663  19.668 
+   user  system elapsed 
+ 17.852   0.223  18.077 
+   user  system elapsed 
+ 16.597   0.588  17.186 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 16.265   3.611  19.877 
+   user  system elapsed 
+ 17.859   1.261  19.121 
+   user  system elapsed 
+ 16.845   0.412  17.258 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 14.852   3.068  17.921 
+   user  system elapsed 
+ 14.671   0.584  15.256 
+   user  system elapsed 
+ 17.448   0.575  18.025 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 27.775   2.848  30.624 
+   user  system elapsed 
+ 28.131   0.808  28.942 
+   user  system elapsed 
+ 30.461   0.284  30.748 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 27.555   2.631  30.187 
+   user  system elapsed 
+ 27.475   0.286  27.762 
+   user  system elapsed 
+ 29.719   0.288  30.008 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 26.607   2.552  29.161 
+   user  system elapsed 
+ 26.148   0.528  26.677 
+   user  system elapsed 
+ 28.721   0.360  29.082 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 27.261   2.516  29.778 
+   user  system elapsed 
+ 26.639   0.380  27.021 
+   user  system elapsed 
+ 29.390   0.200  29.591 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 25.852   2.448  28.300 
+   user  system elapsed 
+ 25.413   0.264  25.678 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 24.606   2.636  27.244 
+   user  system elapsed 
+ 26.844   0.516  27.362 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 26.454   2.536  28.991 
+   user  system elapsed 
+ 29.302   0.280  29.583 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 25.688   2.916  28.607 
+   user  system elapsed 
+ 27.675   0.556  28.233 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 26.064   2.376  28.441 
+   user  system elapsed 
+ 28.048   0.252  28.302 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 26.541   2.892  29.435 
+   user  system elapsed 
+ 28.621   0.540  29.163 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 26.569   2.848  29.419 
+   user  system elapsed 
+ 26.359   0.632  26.993 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 24.657   2.360  27.018 
+   user  system elapsed 
+ 24.057   0.268  24.327 
+   user  system elapsed 
+ 28.358   0.236  28.595 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 36.982  10.273  47.275 
+   user  system elapsed 
+ 35.515   8.275  43.793 
+   user  system elapsed 
+ 40.164   7.307  47.474 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 30.159   2.651  32.812 
+   user  system elapsed 
+ 36.794   2.828  39.624 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 31.105   8.351  39.526 
+   user  system elapsed 
+ 32.230   3.646  35.932 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 53.768   4.514  58.355 
+   user  system elapsed 
+ 57.547   3.880  61.505 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a3fe1e0923177bacc7f899634c08ea20_4.fst"
+
+$checksum
+[1] "a3fe1e0923177bacc7f899634c08ea20"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 60
+
+$init_year_long
+[1] 2013
+
+$maxlag
+[1] 10
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 15
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] TRUE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 28.671   4.022  32.741 
+   user  system elapsed 
+ 34.411   2.963  37.430 
+[1] "transform prvl/dgn/mrtl to be summed"
+   user  system elapsed 
+ 50.851   6.625  57.611 
+   user  system elapsed 
+ 82.374  14.856  98.287 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 53.157   1.622  54.852 
+   user  system elapsed 
+ 52.447   0.919  53.443 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 54.583   8.670  74.552 
+   user  system elapsed 
+ 62.001  10.011  93.768 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 78.261   6.031 101.706 
+   user  system elapsed 
+ 75.478   7.786 176.449 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 81.363  15.196 133.392 
+   user  system elapsed 
+ 92.541  17.350 125.216 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 54.370   5.572  60.028 
+   user  system elapsed 
+ 59.965   1.760  62.311 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 54.209   3.968  58.243 
+   user  system elapsed 
+ 59.675   2.600  62.341 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 54.414  11.883  66.481 
+   user  system elapsed 
+ 57.800   5.269  63.224 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 56.664   7.879  64.628 
+   user  system elapsed 
+ 61.776   3.881  66.409 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 54.359   3.859  58.325 
+   user  system elapsed 
+ 61.880   4.513  69.867 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 70.419  12.174 166.436 
+   user  system elapsed 
+ 77.127   5.980  86.147 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 72.311  16.861  89.404 
+   user  system elapsed 
+ 88.996  15.907 223.700 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 80.662  15.521  99.237 
+   user  system elapsed 
+ 81.506  12.519  98.781 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 96.165  13.885 241.919 
+   user  system elapsed 
+ 79.959  10.512 578.188 
+   user  system elapsed 
+ 53.191   5.215  94.507 
+   user  system elapsed 
+ 51.797   2.554  54.979 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 51.405  11.896 128.170 
+   user  system elapsed 
+ 52.926   6.659  61.695 
+   user  system elapsed 
+ 61.861   6.417  85.287 
+   user  system elapsed 
+ 59.997   2.991  64.017 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 53.462   7.070  61.028 
+   user  system elapsed 
+ 53.516   1.542  61.273 
+   user  system elapsed 
+ 59.645   4.888  66.837 
+   user  system elapsed 
+ 59.351   5.494  65.313 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 59.650   7.714  67.937 
+   user  system elapsed 
+ 55.335   3.448  95.627 
+    user   system  elapsed 
+  56.587    4.006 1021.370 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 54.820  18.865 203.019 
+   user  system elapsed 
+ 52.592   7.513  65.379 
+   user  system elapsed 
+ 57.188  10.688 136.616 
+   user  system elapsed 
+ 55.729   5.341  61.822 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 65.387  21.378 381.137 
+   user  system elapsed 
+ 69.564  16.144 174.418 
+   user  system elapsed 
+ 79.049   8.168  89.909 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 73.220   5.518  78.919 
+   user  system elapsed 
+ 71.951  21.516 339.673 
+   user  system elapsed 
+ 56.309  13.426 196.359 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 54.020   9.109  63.210 
+   user  system elapsed 
+ 52.628   3.409  56.096 
+   user  system elapsed 
+ 57.076   3.816  60.954 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 50.918   4.264  55.243 
+   user  system elapsed 
+ 51.358   1.163  52.574 
+   user  system elapsed 
+ 58.768   3.504  62.346 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 51.022  14.600  65.721 
+   user  system elapsed 
+ 46.907   2.357  49.326 
+   user  system elapsed 
+ 54.745   3.889  58.722 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 69.592  30.823 474.030 
+   user  system elapsed 
+ 76.533  28.563 128.845 
+   user  system elapsed 
+ 80.107  29.460 131.734 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 65.615  18.832  84.627 
+   user  system elapsed 
+ 72.456  20.961  93.658 
+   user  system elapsed 
+ 76.387  23.354 100.123 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 79.005  23.559 105.837 
+   user  system elapsed 
+ 86.827  30.261 164.846 
+   user  system elapsed 
+ 84.121  28.439 113.956 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 75.073  26.298 101.587 
+   user  system elapsed 
+ 97.182  26.653 124.178 
+   user  system elapsed 
+ 85.899  29.150 188.389 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 78.695  29.326 108.463 
+   user  system elapsed 
+ 85.517  29.698 115.512 
+   user  system elapsed 
+ 87.705  32.791 133.037 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 75.315  25.694 102.367 
+   user  system elapsed 
+ 75.505  22.817  98.662 
+   user  system elapsed 
+ 80.379  24.702 157.661 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 74.873  22.234  98.807 
+   user  system elapsed 
+ 75.641  22.170  98.251 
+   user  system elapsed 
+ 84.922  29.237 130.265 
+[1] "transform prvl/dgn/mrtl to be summed"
+   user  system elapsed 
+ 65.368  16.736 351.410 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_a97347d9edc6a478fbeaa7387ac7266b_4.fst"
+
+$checksum
+[1] "a97347d9edc6a478fbeaa7387ac7266b"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 3
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 92.861  23.151 123.962 
+   user  system elapsed 
+ 91.387  25.941 370.158 
+   user  system elapsed 
+ 96.543  32.914 395.073 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 80.888  29.745 111.724 
+   user  system elapsed 
+100.416  52.778 230.913 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 72.644  21.510  94.369 
+   user  system elapsed 
+ 79.317  24.001 103.625 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 69.700  20.327  90.239 
+   user  system elapsed 
+ 77.884  24.296 102.425 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 74.435  22.345  97.015 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 70.549  20.979  91.720 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 72.458  22.908  95.601 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 74.660  25.908 100.826 
+   user  system elapsed 
+ 74.720  28.810 103.879 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 75.203  35.291 135.852 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 69.554  21.072  90.891 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 62.343  19.083  81.684 
+   user  system elapsed 
+ 67.448  21.875  89.490 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 60.741  18.486  79.352 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 61.512  19.210  80.880 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 63.434  19.328  83.047 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 62.569  18.571  81.263 
+Called from: set_tobacco_prevalence(scenario_parms[[sc]], dt$pop, design)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2316: lutbl <- read_fst("./lifecourse_models/smoke_cessation_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2320: lutbl[qimd == "1 most deprived", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2321: lutbl[qimd == "2", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2322: lutbl[qimd == "3", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2323: lutbl[qimd == "4", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2324: lutbl[qimd == "5 least deprived", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2326: setnames(lutbl, c("age", "mu"), c("age_sc", "prb_smok_cess_sc"))
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2328: absorb_dt(dt, lutbl)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2329: tbl_b65 <- read_fst("./lifecourse_models/smoke_relapse_b65_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2333: tbl_b65[qimd == "1 most deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2334: tbl_b65[qimd == "2", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2335: tbl_b65[qimd == "3", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2336: tbl_b65[qimd == "4", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2337: tbl_b65[qimd == "5 least deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2339: tbl_b65 <- dcast(tbl_b65, sex + qimd ~ smok_quit_yrs, value.var = "pr")
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2341: nam <- tbl_b65[, paste0(sex, " ", qimd)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2342: tbl_b65 <- as.matrix(tbl_b65[, mget(paste0(1:15))], rownames = nam)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2345: tbl_a65 <- read_fst("./lifecourse_models/smoke_relapse_a65_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2349: tbl_a65[qimd == "1 most deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2350: tbl_a65[qimd == "2", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2351: tbl_a65[qimd == "3", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2352: tbl_a65[qimd == "4", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2353: tbl_a65[qimd == "5 least deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2355: simsmok_sc(dt, tbl_b65, tbl_a65, design$sim_prm$smoking_relapse_limit, 
+    row_sel)
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 60.397  18.054  78.558 
+Called from: set_tobacco_prevalence(scenario_parms[[sc]], dt$pop, design)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2312: setnames(lutbl, c("age", "mu"), c("age_sc", "prb_smok_incid_sc"))
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2314: absorb_dt(dt, lutbl)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2315: setnafill(dt, type = "const", fill = 0, cols = "prb_smok_incid_sc")
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2318: lutbl <- read_fst("./lifecourse_models/smoke_cessation_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2322: lutbl[qimd == "1 most deprived", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2323: lutbl[qimd == "2", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2324: lutbl[qimd == "3", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2325: lutbl[qimd == "4", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2326: lutbl[qimd == "5 least deprived", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2328: setnames(lutbl, c("age", "mu"), c("age_sc", "prb_smok_cess_sc"))
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2330: absorb_dt(dt, lutbl)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2331: tbl_b65 <- read_fst("./lifecourse_models/smoke_relapse_b65_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2335: tbl_b65[qimd == "1 most deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2336: tbl_b65[qimd == "2", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2337: tbl_b65[qimd == "3", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2338: tbl_b65[qimd == "4", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2339: tbl_b65[qimd == "5 least deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2341: tbl_b65 <- dcast(tbl_b65, sex + qimd ~ smok_quit_yrs, value.var = "pr")
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2343: nam <- tbl_b65[, paste0(sex, " ", qimd)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2344: tbl_b65 <- as.matrix(tbl_b65[, mget(paste0(1:15))], rownames = nam)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2347: tbl_a65 <- read_fst("./lifecourse_models/smoke_relapse_a65_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2351: tbl_a65[qimd == "1 most deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2352: tbl_a65[qimd == "2", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2353: tbl_a65[qimd == "3", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2354: tbl_a65[qimd == "4", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2355: tbl_a65[qimd == "5 least deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2357: simsmok_sc(dt, tbl_b65, tbl_a65, design$sim_prm$smoking_relapse_limit, 
+    row_sel)
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 62.516  19.753  82.410 
+Called from: set_tobacco_prevalence(scenario_parms[[sc]], dt$pop, design)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2279: setkey(dt, pid, year)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2280: row_sel <- dt[between(year + 2000L, scenario_parms$sc_init_year, 
+    scenario_parms$sc_last_year), which = TRUE]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2287: if (!"smok_status_sc" %in% names(dt)) set(dt, NULL, "smok_status_sc", 
+    dt$smok_status_curr_xps)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2289: if (!"smok_quit_yrs_sc" %in% names(dt)) set(dt, NULL, "smok_quit_yrs_sc", 
+    dt$smok_quit_yrs_curr_xps)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2291: if (!"smok_dur_sc" %in% names(dt)) set(dt, NULL, "smok_dur_sc", 
+    dt$smok_dur_curr_xps)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2293: if (!"smok_cig_sc" %in% names(dt)) set(dt, NULL, "smok_cig_sc", 
+    dt$smok_cig_curr_xps)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2297: dt[row_sel, `:=`(pid_mrk_sc, mk_new_simulant_markers(pid))]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2301: lutbl <- read_fst("./lifecourse_models/smoke_initiation_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2305: lutbl[qimd == "1 most deprived", `:=`(mu, mu * scenario_parms$sc_smok_initiation_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2306: lutbl[qimd == "2", `:=`(mu, mu * scenario_parms$sc_smok_initiation_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2307: lutbl[qimd == "3", `:=`(mu, mu * scenario_parms$sc_smok_initiation_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2308: lutbl[qimd == "4", `:=`(mu, mu * scenario_parms$sc_smok_initiation_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2309: lutbl[qimd == "5 least deprived", `:=`(mu, mu * scenario_parms$sc_smok_initiation_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2314: setnames(lutbl, c("age", "mu"), c("age_sc", "prb_smok_incid_sc"))
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2316: absorb_dt(dt, lutbl)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2317: setnafill(dt, type = "const", fill = 0, cols = "prb_smok_incid_sc")
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2320: lutbl <- read_fst("./lifecourse_models/smoke_cessation_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2324: lutbl[qimd == "1 most deprived", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2325: lutbl[qimd == "2", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2326: lutbl[qimd == "3", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2327: lutbl[qimd == "4", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2328: lutbl[qimd == "5 least deprived", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2330: setnames(lutbl, c("age", "mu"), c("age_sc", "prb_smok_cess_sc"))
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2332: absorb_dt(dt, lutbl)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2333: tbl_b65 <- read_fst("./lifecourse_models/smoke_relapse_b65_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2337: tbl_b65[qimd == "1 most deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2338: tbl_b65[qimd == "2", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2339: tbl_b65[qimd == "3", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2340: tbl_b65[qimd == "4", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2341: tbl_b65[qimd == "5 least deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2343: tbl_b65 <- dcast(tbl_b65, sex + qimd ~ smok_quit_yrs, value.var = "pr")
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2345: nam <- tbl_b65[, paste0(sex, " ", qimd)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2346: tbl_b65 <- as.matrix(tbl_b65[, mget(paste0(1:15))], rownames = nam)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2349: tbl_a65 <- read_fst("./lifecourse_models/smoke_relapse_a65_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2353: tbl_a65[qimd == "1 most deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2354: tbl_a65[qimd == "2", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2355: tbl_a65[qimd == "3", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2356: tbl_a65[qimd == "4", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2357: tbl_a65[qimd == "5 least deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2359: simsmok_sc(dt, tbl_b65, tbl_a65, design$sim_prm$smoking_relapse_limit, 
+    row_sel)
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 61.559  18.893  80.598 
+Called from: set_tobacco_prevalence(scenario_parms[[sc]], dt$pop, design)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2279: setkey(dt, pid, year)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2280: row_sel <- dt[between(year + 2000L, scenario_parms$sc_init_year, 
+    scenario_parms$sc_last_year), which = TRUE]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2287: if (!"smok_status_sc" %in% names(dt)) set(dt, NULL, "smok_status_sc", 
+    dt$smok_status_curr_xps)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2289: if (!"smok_quit_yrs_sc" %in% names(dt)) set(dt, NULL, "smok_quit_yrs_sc", 
+    dt$smok_quit_yrs_curr_xps)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2291: if (!"smok_dur_sc" %in% names(dt)) set(dt, NULL, "smok_dur_sc", 
+    dt$smok_dur_curr_xps)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2293: if (!"smok_cig_sc" %in% names(dt)) set(dt, NULL, "smok_cig_sc", 
+    dt$smok_cig_curr_xps)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2297: dt[row_sel, `:=`(pid_mrk_sc, mk_new_simulant_markers(pid))]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2301: lutbl <- read_fst("./lifecourse_models/smoke_initiation_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2305: lutbl[qimd == "1 most deprived", `:=`(mu, mu * scenario_parms$sc_smok_initiation_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2306: lutbl[qimd == "2", `:=`(mu, mu * scenario_parms$sc_smok_initiation_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2307: lutbl[qimd == "3", `:=`(mu, mu * scenario_parms$sc_smok_initiation_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2308: lutbl[qimd == "4", `:=`(mu, mu * scenario_parms$sc_smok_initiation_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2309: lutbl[qimd == "5 least deprived", `:=`(mu, mu * scenario_parms$sc_smok_initiation_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2314: setnames(lutbl, c("age", "mu"), c("age_sc", "prb_smok_incid_sc"))
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2316: absorb_dt(dt, lutbl)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2317: setnafill(dt, type = "const", fill = 0, cols = "prb_smok_incid_sc")
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2320: lutbl <- read_fst("./lifecourse_models/smoke_cessation_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2324: lutbl[qimd == "1 most deprived", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2325: lutbl[qimd == "2", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2326: lutbl[qimd == "3", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2327: lutbl[qimd == "4", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2328: lutbl[qimd == "5 least deprived", `:=`(mu, mu * scenario_parms$sc_smok_cessation_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2330: setnames(lutbl, c("age", "mu"), c("age_sc", "prb_smok_cess_sc"))
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2332: absorb_dt(dt, lutbl)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2333: tbl_b65 <- read_fst("./lifecourse_models/smoke_relapse_b65_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2337: tbl_b65[qimd == "1 most deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2338: tbl_b65[qimd == "2", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2339: tbl_b65[qimd == "3", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2340: tbl_b65[qimd == "4", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2341: tbl_b65[qimd == "5 least deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2343: tbl_b65 <- dcast(tbl_b65, sex + qimd ~ smok_quit_yrs, value.var = "pr")
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2345: nam <- tbl_b65[, paste0(sex, " ", qimd)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2346: tbl_b65 <- as.matrix(tbl_b65[, mget(paste0(1:15))], rownames = nam)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2349: tbl_a65 <- read_fst("./lifecourse_models/smoke_relapse_a65_table_calibrated.fst", 
+    as.data.table = TRUE)
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2353: tbl_a65[qimd == "1 most deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd1)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2354: tbl_a65[qimd == "2", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd2)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2355: tbl_a65[qimd == "3", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd3)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2356: tbl_a65[qimd == "4", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd4)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2357: tbl_a65[qimd == "5 least deprived", `:=`(pr, pr * scenario_parms$sc_smok_relapse_qimd5)]
+debug at /home/vincyh/IMPACThint/Rpackage/workHORSE_model_pkg/R/aux_functions.R#2359: simsmok_sc(dt, tbl_b65, tbl_a65, design$sim_prm$smoking_relapse_limit, 
+    row_sel)
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 64.753  19.517  84.419 
+   user  system elapsed 
+ 72.462  23.555  96.208 
+   user  system elapsed 
+ 66.371  18.943  85.483 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 65.136  19.829  85.113 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 65.579  19.842  85.575 
+   user  system elapsed 
+ 71.826  24.276  96.278 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 74.163  23.275  97.626 
+   user  system elapsed 
+ 79.380  28.141 109.192 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 64.866  17.942  82.931 
+   user  system elapsed 
+ 71.211  22.193  93.578 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 70.060  18.831  89.054 
+   user  system elapsed 
+ 74.378  21.129  95.727 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 65.012  18.638  83.810 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 86.741  26.574 114.559 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 60.996  18.325  79.429 
+   user  system elapsed 
+ 66.378  18.667  85.161 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 60.438  19.078  79.634 
+   user  system elapsed 
+ 67.729  20.655  88.508 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 64.019  19.536  83.686 
+   user  system elapsed 
+ 71.616  20.814  92.586 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 72.896  23.349  96.496 
+   user  system elapsed 
+ 82.152  25.125 110.236 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 64.668  19.431  84.281 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 72.583  23.468  96.263 
+   user  system elapsed 
+ 69.309  24.297  93.797 
+   user  system elapsed 
+ 77.030  24.951 102.216 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 65.524  18.938  84.623 
+   user  system elapsed 
+ 72.736  20.766  93.681 
+   user  system elapsed 
+ 73.299  20.255  93.742 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 69.883  20.719  90.794 
+   user  system elapsed 
+ 69.296  19.559  89.023 
+   user  system elapsed 
+ 78.032  25.937 104.213 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 66.867  20.113  87.124 
+   user  system elapsed 
+ 67.326  20.016  87.504 
+   user  system elapsed 
+ 73.761  23.277  97.225 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 70.287  20.292  90.710 
+   user  system elapsed 
+ 69.803  20.727  90.695 
+   user  system elapsed 
+ 75.465  26.632 102.321 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 64.166  19.537  83.865 
+   user  system elapsed 
+ 66.442  19.838  86.457 
+   user  system elapsed 
+ 70.853  22.475  93.539 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 82.328  25.021 107.632 
+   user  system elapsed 
+ 92.309  28.628 121.247 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 74.622  25.468 102.064 
+   user  system elapsed 
+ 75.025  24.876 100.373 
+   user  system elapsed 
+ 72.147  22.061  94.777 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 83.799  26.716 110.806 
+   user  system elapsed 
+ 87.174  26.542 114.101 
+   user  system elapsed 
+ 80.978  26.287 107.519 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 62.142  18.848  81.141 
+   user  system elapsed 
+ 61.885  18.672  80.704 
+   user  system elapsed 
+ 69.339  22.031  91.565 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 61.302  19.517  80.976 
+   user  system elapsed 
+ 61.847  19.201  81.199 
+   user  system elapsed 
+ 67.574  21.834  89.583 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 61.613  19.321  81.073 
+   user  system elapsed 
+ 62.525  19.381  82.060 
+   user  system elapsed 
+ 70.058  22.506  92.725 
+[1] "transform prvl/dgn/mrtl to be summed"
+   user  system elapsed 
+ 40.679   3.568  44.317 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 67.730   4.522  72.356 
+   user  system elapsed 
+ 82.866   9.276  92.294 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 75.285  25.089 100.609 
+   user  system elapsed 
+ 82.601  24.133 106.961 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 75.713  23.413  99.906 
+   user  system elapsed 
+ 85.429  30.874 120.087 
+   user  system elapsed 
+ 85.725  32.604 130.343 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 76.495  21.786  98.573 
+   user  system elapsed 
+ 74.797  21.613  96.625 
+   user  system elapsed 
+ 86.351  28.418 172.994 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 74.257  20.753  95.220 
+   user  system elapsed 
+ 75.503  21.713 100.249 
+   user  system elapsed 
+ 84.654  25.591 110.817 
+[1] "transform prvl/dgn/mrtl to be summed"
+   user  system elapsed 
+ 47.008   6.020  56.954 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 75.978   7.283  83.387 
+   user  system elapsed 
+ 77.105   9.914  87.160 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 65.694  20.593  86.462 
+   user  system elapsed 
+ 65.612  21.379  87.202 
+   user  system elapsed 
+ 72.970  22.981  96.165 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 66.092  21.102  87.397 
+   user  system elapsed 
+ 65.264  20.459  85.902 
+   user  system elapsed 
+ 72.185  24.466  96.866 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 76.233  27.992 104.536 
+   user  system elapsed 
+ 73.527  22.741  96.744 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 72.841  21.675  94.755 
+   user  system elapsed 
+ 81.573  26.082 108.135 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 74.190  22.047  96.451 
+   user  system elapsed 
+ 73.860  22.889  96.971 
+   user  system elapsed 
+ 72.721  23.965  96.959 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 74.225  22.044  96.486 
+   user  system elapsed 
+ 75.127  23.128  98.479 
+   user  system elapsed 
+ 74.187  23.999 104.648 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 73.252  21.796  95.327 
+   user  system elapsed 
+ 74.654  21.609  96.478 
+   user  system elapsed 
+ 74.909  22.660  97.780 
+   user  system elapsed 
+ 73.713  24.695 127.051 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 77.857  25.526 103.714 
+   user  system elapsed 
+ 90.067  36.352 126.795 
+[1] "transform prvl/dgn/mrtl to be summed"
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 39.742  25.772  65.699 
+$path
+[1] "/mnt/storage_fast/synthpop/hint/synthpop_9d8f9b9543ae2ebcd1d6195905135118_4.fst"
+
+$checksum
+[1] "9d8f9b9543ae2ebcd1d6195905135118"
+
+$mc
+[1] 4
+
+$n
+[1] 100000
+
+$n_synthpop_aggregation
+[1] 2
+
+$n_primers
+[1] 10
+
+$sim_horizon_max
+[1] 56
+
+$init_year_long
+[1] 2017
+
+$maxlag
+[1] 15
+
+$smoking_relapse_limit
+[1] 15
+
+$ageL
+[1] 30
+
+$ageH
+[1] 89
+
+$jumpiness
+[1] 1
+
+$simsmok_calibration
+[1] FALSE
+
+[1] "scenario outputs"
+   user  system elapsed 
+ 75.742  22.698  98.615 
+   user  system elapsed 
+ 89.307  27.920 117.501 
+   user  system elapsed 
+ 83.369  31.529 127.867 
+   user  system elapsed 
+ 89.323  31.844 123.897 
+[1] "transform prvl/dgn/mrtl to be summed"
